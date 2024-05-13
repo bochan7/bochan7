@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @bochan7
  -currently learning C n dsa using C 
+ - learning python currently 🤞
  -UndergrounDed teen :|
 
 <!---
