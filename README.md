@@ -1,9 +1,5 @@
 - 👋 Hi, I’m @bochan7
- - C 
- - python  🤞
- - DSA using C
- - learning java currently 
- - UndergrounDed teen :|
+- 2nd Year CSE student 
 
 <!---
 bochan7/bochan7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
